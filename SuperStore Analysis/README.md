@@ -36,6 +36,20 @@ The objectives of this analysis are to:
 
 ---
 
+## Dashboard Images:
+
+![Operating Margin Overview](images/m1.png)
+
+---
+
+![Discount Overview](images/m2.png)
+
+---
+
+![Performance of low performing and high performing states](images/m3.png)
+
+---
+
 ### 🔍 Key Insights
 
 #### 1️⃣ Profit Margin Variation by Geography
